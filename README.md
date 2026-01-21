@@ -19,11 +19,11 @@ Key Objectives
 *Simulate real insurance company decision logic
 *Provide transparent, explainable decisions for claims
 
- Technologies Used        Category	Tools
+ Technologies Used    ,    Category	Tools
 
 -> Programming	            Python
--> ML Libraries	            NumPy, Pandas, Scikit-learn
+-> ML Libraries	           NumPy, Pandas, Scikit-learn
 -> Model Types	            Logistic Regression / Random Forest / XGBoost
--> Frontend	                Streamlit
+-> Frontend	               Streamlit
 -> Model Storage	          Joblib
-->Dataset	                  Vehicle Insurance Fraud Dataset (Oracle / Public Source)
+-> Dataset	                Vehicle Insurance Fraud Dataset (Oracle / Public Source)
